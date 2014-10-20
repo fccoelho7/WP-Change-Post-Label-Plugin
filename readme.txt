@@ -8,7 +8,7 @@ Stable tag: 1.0.
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Convert plain text URI to HTML links. Converts URI, www, FTP, and email addresses.
+If you don't use WordPress like blog, it able you to rename the Post's label, dispensing the necessity of create a new custom post type or hide the Post menu item.
 
 == Description ==
 
