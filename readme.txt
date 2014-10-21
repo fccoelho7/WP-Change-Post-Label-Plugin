@@ -8,7 +8,7 @@ Stable tag: 1.0.
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you don't use WordPress like blog, it able you to rename the Post's label, dispensing the necessity of create a new custom post type or hide the Post menu item.
+Dispenses the necessity of create a new Custom Post Type or hide the Post menu item.
 
 == Description ==
 
@@ -33,6 +33,7 @@ Use https://github.com/fccoelho7/Change-Post-Label
 = 1.0.0 =
 
 * Initial Release
+* At the first time, it renames the label "Posts" to "Notícias", that is "News" in Portuguese.
 
 == Screenshots ==
 
