@@ -156,6 +156,13 @@
 				<input type="hidden" name="reset_cpl_data" value="">
 				<?php submit_button( 'Reset Labels', 'delete' ) ?>
 			</form>
+			<hr>
+			<h3>Donate!</h3>
+			<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+				<input type="hidden" name="currency" value="BRL" />
+				<input type="hidden" name="receiverEmail" value="fccoelho7@gmail.com" />
+				<input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+			</form>
 		</div>
 		<?php
 	}
